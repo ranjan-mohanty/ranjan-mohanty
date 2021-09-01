@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=ApacheKafka&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -26,14 +26,16 @@
 
 ## Some of my Github Stats
 <img src="https://komarev.com/ghpvc/?username=ranjan-mohanty" alt=ranjan-mohanty style="display:inline"/>
-  
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ranjan-mohanty&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/ranjan-mohanty)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-mohanty&layout=compact&count_private=true)](https://github.com/ranjan-mohanty/github-readme-stats)
+<p align = "center">
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=ranjan-mohanty&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjan-mohanty&theme=dark&include_all_commits=true&count_private=true" />
+</p>
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranjanmohanty&layout=compact)](https://github.com/ranjan-mohanty)
-
-
+<p align = "center">
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan-mohanty&layout=compact&count_private=true&theme=dark" />
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ranjanmohanty&layout=compact&theme=dark" />
+</p>
 
 <!---
 ranjan-mohanty/ranjan-mohanty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
