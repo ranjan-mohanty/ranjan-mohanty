@@ -1,11 +1,12 @@
 ## Hey 👋, I'm Ranjan
-<p><em>Software Engineer at <a href="http://www.blackbuck.com">BlackBuck</a></em></p>
-<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
+<p><em>Software Engineer at <a href="http://www.razorpay.com">Razorpay</a></em></p>
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
 
 <br/>
 
 <br/>
 
+## Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-ranjankm-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ranjankm/)](https://www.linkedin.com/in/ranjankm/) 
 [![Github Badge](https://img.shields.io/badge/-ranjan--mohanty-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ranjan-mohanty/)](https://www.github.com/ranjan-mohanty/)
 [![Outlook Badge](https://img.shields.io/badge/-ranjanmohanty@outlook.in-0072c6?style=flat&logo=MicrosoftOutlook&logoColor=white&link=mailto:ranjanmohanty@outlook.in)](mailto:ranjanmohanty@outlook.in) 
