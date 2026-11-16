@@ -1,18 +1,10 @@
-## Hey 👋, I'm Ranjan
-<p><em>Software Engineer</p>
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
-
-<br/>
-
-<br/>
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=ApacheKafka&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs" alt="TypeScript, JavaScript, Node.js" /><br>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,scala,rust,py" alt="Java, Kotlin, Scala, Rust, Python" /><br>
+  <img src="https://skillicons.dev/icons?i=go,html,css,react,materialui,spring" alt="Go, HTML, CSS, React, Material UI, Spring" /><br>
+  <img src="https://skillicons.dev/icons?i=vite,gradle,npm,md,mysql,postgres,cassandra" alt="Vite, Gradle, npm, Markdown, MySQL, PostgreSQL, Cassandra" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,elasticsearch,dynamodb,aws,docker,githubactions" alt="MongoDB, Redis, Elasticsearch, DynamoDB, AWS, Docker, GitHub Actions" /><br>
+  <img src="https://skillicons.dev/icons?i=heroku,netlify,git,gitlab,bitbucket,linux" alt="Heroku, Netlify, Git, GitLab, Bitbucket, Linux" /><br>
+  <img src="https://skillicons.dev/icons?i=ubuntu,apple,bash,regex,vscode" alt="Ubuntu, Apple, Bash, Regex, VS Code" /><br>
+  <img src="https://skillicons.dev/icons?i=idea,androidstudio,postman,obsidian" alt="IntelliJ IDEA, Android Studio, Postman, Obsidian" />
+</p>
